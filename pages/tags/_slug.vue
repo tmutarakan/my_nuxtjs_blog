@@ -49,7 +49,7 @@
       }
     },
   }
-  //console.log(tag.attributes)
+ 
   </script>
   
   <style scoped>
